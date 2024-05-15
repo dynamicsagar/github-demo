@@ -1,15 +1,15 @@
 # github-demo
 
-## test user changes
+## test user changes new updated
 
-### how are you
+### change to > how are you
 
 this is a texttual changes
 
 I wabt to make a commit changes and want a conflicts
 
 
-please try!!!
+I tried and its work
 
 
 to run the file you have to folllow the below iunst
