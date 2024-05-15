@@ -2,14 +2,14 @@
 
 ## test user changes
 
-### how are you
+### DOING TODAY?
 
 this is a texttual changes
 
 I wabt to make a commit changes and want a conflicts
 
 
-please try!!!
+AND UPDATE ME THE RESULTS
 
 
-to run the file you have to folllow the below iunst
+to run the CHANGE I DID IN OTHER BRNACHfile you have to folllow the below iunst
