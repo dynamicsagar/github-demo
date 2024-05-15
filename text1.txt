@@ -1,2 +1,4 @@
-dummy file1
+dummy file2
+
+added a new line for conflicts
 
