@@ -2,3 +2,5 @@ dummy file2
 
 added a new line for conflicts
 
+added a new line for conflicts
+
